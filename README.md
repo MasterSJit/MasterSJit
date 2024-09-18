@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,mongodb,laravel,bootstrap,tailwindcss,flutter,selenium,regex,github,figma,maven,aws,gcp,vscode,atom,wordpress,sass,photoshop,cloudflare&perline=8)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,mongodb,laravel,bootstrap,tailwindcss,flutter,selenium,regex,github,figma,maven,aws,gcp,vscode,atom,wordpress,sass,photoshop,cloudflare&perline=8)]()
 
+![](https://komarev.com/ghpvc/?username=MasterSJit&label=PROFILE+VIEWS&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/78618301-1835-485c-902d-fda561adbb48.svg?style=for-the-badge)](https://wakatime.com/@78618301-1835-485c-902d-fda561adbb48)
 # Hello world
 
 <!--
