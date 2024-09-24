@@ -2,11 +2,14 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasterSJit?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![MasterSJit's Stats](https://github-readme-stats.vercel.app/api?username=MasterSJit&theme=default&show_icons=true&hide_border=true&count_private=true)
+<!--![MasterSJit's Stats](https://github-readme-stats.vercel.app/api?username=MasterSJit&theme=default&show_icons=true&hide_border=true&count_private=true)-->
 
-![MasterSJit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSJit&theme=default&show_icons=true&hide_border=true&layout=compact)
+[![MasterSJit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSJit&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![MasterSJit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterSJit&theme=default&hide_border=false)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=master_s_jit)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Skills
