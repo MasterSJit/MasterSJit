@@ -2,6 +2,13 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasterSJit?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![MasterSJit's Stats](https://github-readme-stats.vercel.app/api?username=MasterSJit&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![MasterSJit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSJit&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![MasterSJit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterSJit&theme=default&hide_border=false)
+
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,mongodb,laravel,bootstrap,tailwindcss,flutter,selenium,regex,github,figma,maven,aws,gcp,vscode,atom,wordpress,sass,photoshop,cloudflare&perline=8)]()
